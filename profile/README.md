@@ -3,8 +3,6 @@ The Vienna package for Erlangen LEED (ViPErLEED) is a comprehensive package aime
 
 It comprises three main parts (conceptually independent from one another):
 
-1. Measurement of LEED-IV 'movies',
-2. Extraction of IV curves from LEED movies,
-3. Calculations of theoretical IV curves based on a structural guess and optimization of the structure to best fit the experimental data.
-
-The package is currently in beta-test phase. The code is temporarily hosted in private repositories until the relevant manuscripts are ready for submission. We're happy to give access to anyone interested in trying it out: write an email to Michele Riva (riva@iap.tuwien.ac.at) if you're interested.
+1. Measurement of LEED-IV 'movies' - currently in beta-test phase in the [viperleed](https://github.com/viperleed/viperleed) repository
+2. Extraction of IV curves from LEED movies - see the [viperleed-imagej](https://github.com/viperleed/viperleed-imagej) repository
+3. Calculations of theoretical IV curves based on a structural guess and optimization of the structure to best fit the experimental data - see the [viperleed](https://github.com/viperleed/viperleed) repository
